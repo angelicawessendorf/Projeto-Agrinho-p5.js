@@ -1,5 +1,5 @@
-🗺️ Descrição do Projeto: "Conexões na Comunidade"
-Este projeto apresenta um mapa de uma comunidade rural com quatro pontos principais destacados:
+🗺️ Descrição do Projeto: "Caminhos que se conectam"
+Este projeto indentifica lugares significativos da minha cidade, representando a conexão entre esses espaços:
 
 🏫 Escola
 
@@ -9,7 +9,6 @@ Este projeto apresenta um mapa de uma comunidade rural com quatro pontos princip
 
 ⛪ Igreja
 
-Cada ponto é representado por um círculo colorido em posições específicas sobre uma imagem de fundo (angelica.jpg), presumivelmente um mapa ou ilustração da comunidade. As conexões entre esses pontos são traçadas com linhas que simbolizam relações sociais, culturais ou funcionais entre esses espaços.
 
 🖱️ Interatividade:
 Quando o usuário move o mouse sobre o meio das linhas que conectam os pontos, aparecem textos explicativos, em caixas semi-transparentes, que descrevem a relação simbólica entre os lugares. Por exemplo:
@@ -35,7 +34,4 @@ Casa: roxo
 
 Igreja: laranja
 
-O mouse exibe sua posição (x, y) no canto superior, útil para depuração ou ajuste de coordenadas.
 
-🧠 Objetivo Educativo:
-O projeto tem forte caráter pedagógico e simbólico, ideal para ser usado em contextos educacionais. Ele visa mostrar a interdependência entre os espaços da vida no campo e os serviços da cidade, além de estimular reflexões sobre comunidade, educação, economia e espiritualidade.
