@@ -1,4 +1,4 @@
-🗺️ Descrição do Projeto: "Caminhos que se conectam"
+🗺️ Descrição do Projeto: "Do Campo à Cidade: Um Só Caminho"
 Este projeto indentifica lugares significativos da minha cidade, representando a conexão entre esses espaços:
 
 🏫 Escola
